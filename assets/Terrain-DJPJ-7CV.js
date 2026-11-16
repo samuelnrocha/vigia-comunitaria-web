@@ -1,4 +1,4 @@
-import{r as ur,p as Lo,j as Do}from"./index-Dqw-g7vX.js";/**
+import{r as ur,p as Lo,j as Do}from"./index-BSghXIOn.js";/**
  * @license
  * Copyright 2010-2024 Three.js Authors
  * SPDX-License-Identifier: MIT
